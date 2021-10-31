@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Piotr <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### 👨 About me
 I am a beginner Python developer who loves to learn about new things. Connect with me on LinkedIn.
