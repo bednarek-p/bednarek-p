@@ -14,9 +14,11 @@ I am a DevOps Engineer who loves to learn about new things. Connect with me on L
 [![Ansible Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)]()
 [![Aws Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Pulumi](https://img.shields.io/static/v1?style=for-the-badge&message=Pulumi&color=8A3391&logo=Pulumi&logoColor=FFFFFF&label=)]()
+[![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)]()
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 #### 🕹 My interests   
 - ♟︎ Chess
-- 💸 Financial markets and cryptocurrencies
+- 🏐 Volleyball (outside hitter)
+- 🏔️ Mountain hikes
